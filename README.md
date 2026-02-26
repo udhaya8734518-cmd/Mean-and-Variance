@@ -48,7 +48,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-
+~~~
 #Developed by : UDHAYA GIRI V
 #Register No : 212225040475
 
@@ -76,7 +76,7 @@ sd=np.sqrt(var)
 print(f"The Mean arrival rate is {mean:.3f} ")
 print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {sd:.3f}"
-
+~~~
 # Output : 
 <img width="1046" height="169" alt="Screenshot 2026-02-26 152537" src="https://github.com/user-attachments/assets/0dedcc46-789f-4b2e-92fc-9c34aebbc921" />
 
